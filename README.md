@@ -16,7 +16,7 @@ sci-kit learn OC-SVM documents: https://scikit-learn.org/stable/modules/generate
 
 OCTID PyPI package: https://pypi.org/project/octid/
 
-OCTID offical github demo: https://github.com/LitaoYang-Jet/OCTID
+OCTID official github demo: https://github.com/LitaoYang-Jet/OCTID
 
 Dataset I use in this demo:
 1. Histological images for tumor detection in gastrointestinal cancer: https://zenodo.org/record/2530789#.Yhve3htyY5l
