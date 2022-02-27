@@ -8,7 +8,7 @@ Pipeline: dataset splitting --> feature extraction from ImageNet pre-trained mod
 
 In this demo case, I use mobilenet as the backbone model: https://www.tensorflow.org/api_docs/python/tf/keras/applications/mobilenet/MobileNet
 
-Some hyper-parameters can be fine-tunned for better performance, like n_neighbors and min_dist in UMAP, nu in OC-SVM
+Some hyper-parameters can be fine-tunned for better performance, like n_neighbors and min_dist in UMAP, nu in OC-SVM. Please Note, tunning OC-SVM 'nu' is more effective than tunning other hyper-parameters.
 
 UMAP documents: https://umap-learn.readthedocs.io/en/latest/index.html
 
