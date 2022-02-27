@@ -1,6 +1,6 @@
 # OCTID_TF2
 
-Unofficial implementaion of 2021 Bioinformatics Paper "OCTID: a one-class learning-based Python package for tumor image detection" https://academic.oup.com/bioinformatics/article-abstract/37/21/3986/6290709?redirectedFrom=fulltext&login=false
+Unofficial implementation of 2021 Bioinformatics Paper "OCTID: a one-class learning-based Python package for tumor image detection" https://academic.oup.com/bioinformatics/article-abstract/37/21/3986/6290709?redirectedFrom=fulltext&login=false
 
 Tensorflow 2.0 Version
 
