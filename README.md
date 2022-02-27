@@ -10,6 +10,11 @@ In this demo case, I use mobilenet as the backbone model: https://www.tensorflow
 
 Some hyper-parameters can be fine-tunned for better performance, like n_neighbors and min_dist in UMAP, nu in OC-SVM. Please Note, tunning OC-SVM 'nu' is more effective than tunning other hyper-parameters.
 
+Some factors influence the final performance:
+1. backbone selection
+2. inputs image resolution
+3. hyper-parameters
+
 UMAP documents: https://umap-learn.readthedocs.io/en/latest/index.html
 
 sci-kit learn OC-SVM documents: https://scikit-learn.org/stable/modules/generated/sklearn.svm.OneClassSVM.html
