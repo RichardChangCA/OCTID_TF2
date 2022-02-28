@@ -30,7 +30,7 @@ Dataset I use in this demo:
 Histological Lung images visualization after UMAP
 ![lung_validation_feature_dim](lung_validation_feature_dim.png)
 
-
+Please Note: when you use weights-fixed ImageNet pre-trained feature extractor, inputs(range 0-255) should not divide 255.
 
 
 
