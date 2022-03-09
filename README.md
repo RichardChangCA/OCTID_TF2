@@ -2,7 +2,7 @@
 
 Unofficial implementation of 2021 Bioinformatics Paper "OCTID: a one-class learning-based Python package for tumor image detection" https://academic.oup.com/bioinformatics/article-abstract/37/21/3986/6290709?redirectedFrom=fulltext&login=false
 
-Tensorflow 2.0 Version
+Tensorflow 2.x Version
 
 Pipeline: dataset splitting --> feature extraction from ImageNet pre-trained models --> UMAP for dimensionality reduction --> OC-SVM
 
